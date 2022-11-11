@@ -10,6 +10,6 @@ Lets Check This.
 I Took one and half days to complete this 
 Rode Clone.
 ***
-[Netlify Clone]()
+[Netlify Clone](https://app.netlify.com/sites/rode-clone-live-class/overview)
 
-![badge]()
+![badge](https://img.shields.io/badge/Live--Class-Rode%20Clone-blueviolet)
